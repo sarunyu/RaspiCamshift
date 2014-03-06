@@ -25,7 +25,7 @@ cd RaspiCamshift
 mkdir objs
 make
 
-To Run
+To Run (run in desktop mode)
 --------------------------------------------------
 ./raspicamshift
 

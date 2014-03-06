@@ -19,8 +19,7 @@ cd userland
 
 To build the raspicam library:
 --------------------------------------------------
-mkdir -p ~/git
-cd ~/git
+cd ~/
 git clone https://github.com/robidouille/robidouille.git
 cd robidouille/raspicam_cv
 mkdir objs

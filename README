@@ -17,7 +17,7 @@ cd userland
 ./buildme
 
 
-To build the raspicam library:
+To build the raspicam library & raspicamshift:
 --------------------------------------------------
 cd ~/
 git clone https://github.com/sarunyoo/RaspiCamshift.git

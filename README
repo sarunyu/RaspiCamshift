@@ -5,7 +5,7 @@ First make sure you have cmake and git installed:
 sudo apt-get install cmake git
 
 You might also need gcc/g++ in case it's not already installed, along with some other libraries:
-sudo apt-get install gcc g++ libx11-dev libxt-dev libxext-dev libgraphicsmagick1-dev libcv-dev libhighgui-dev
+sudo apt-get install gcc g++ libx11-dev libxt-dev libxext-dev libgraphicsmagick1-dev libcv-dev libhighgui-dev libopencv-dev libcv2.3 opencv-doc
 
 
 You need the raspberry pi userland libraries:
